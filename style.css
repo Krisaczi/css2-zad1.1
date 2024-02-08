@@ -1,0 +1,9 @@
+.menu-link {
+  text-decoration: none;
+  color: black;
+}
+
+.active > a {
+  font-weight: 600 !important;
+  background-image: none !important;
+}
