@@ -4,6 +4,5 @@
 }
 
 .active > a {
-  font-weight: 600 !important;
-  background-image: none !important;
+  font-weight: 600;
 }
